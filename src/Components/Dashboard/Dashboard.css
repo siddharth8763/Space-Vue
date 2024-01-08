@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.ag-theme-alpine {
+    width: 95% !important;
+    margin: 10px 10px 10px 10px;
+}
+
+.chart-container{
+    height:36vw !important;
+}
+
+@media (min-width: 600px) {
+    .container {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .ag-theme-alpine {
+        width: 70vw;
+    }
+}
+
+.chart-label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
