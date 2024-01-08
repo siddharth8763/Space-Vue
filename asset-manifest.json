@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/space-vue/static/css/main.689809f9.css",
+    "main.js": "/space-vue/static/js/main.87bcef41.js",
+    "index.html": "/space-vue/index.html",
+    "main.689809f9.css.map": "/space-vue/static/css/main.689809f9.css.map",
+    "main.87bcef41.js.map": "/space-vue/static/js/main.87bcef41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689809f9.css",
+    "static/js/main.87bcef41.js"
+  ]
+}
