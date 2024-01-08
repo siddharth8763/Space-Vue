@@ -1,5 +1,5 @@
 # How to access the app?
-- This app can be accessed using the URL https://github.com/siddharth8763/space-vue
+- This app can be accessed using the URL https://siddharth8763.github.io/space-vue/
 - User name and password is hardcoded i.e username- admin, password- password
 
 # How to use it locally on the system
